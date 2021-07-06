@@ -1,0 +1,78 @@
+
+<?xml version="1.0" encoding="utf-8"?>
+<!--  Copyright (C) 2021 CorvusOS Project
+  This program is free software: you can redistribute it and/or modify
+  it under the terms of the GNU General Public License as published by
+  the Free Software Foundation, either version 2 of the License, or
+  (at your option) any later version.
+  This program is distributed in the hope that it will be useful,
+  but WITHOUT ANY WARRANTY; without even the implied warranty of
+  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  GNU General Public License for more details.
+  You should have received a copy of the GNU General Public License
+  along with this program.  If not, see <http://www.gnu.org/licenses/>.
+ -->
+
+<!-- hour_header must be sorted based on hour
+entry can only be only one of hour or day/month type
+day_header entries have a higher priority then hour entries -->
+
+<daylight_headers>
+    <random_header image="Corvus01" />
+    <random_header image="Corvus02" />
+    <random_header image="Corvus03" />
+    <random_header image="Corvus04" />
+    <random_header image="Corvus05" />
+    <random_header image="Corvus06" />
+    <random_header image="Corvus07" />
+    <random_header image="Corvus08" />
+    <random_header image="Corvus09" />
+    <random_header image="Corvus10" />
+    <random_header image="Corvus11" />
+    <random_header image="Corvus12" />
+    <random_header image="Corvus13" />
+    <random_header image="Corvus14" />
+    <random_header image="Corvus15" />
+    <random_header image="Corvus16" />
+    <random_header image="Corvus17" />
+    <random_header image="Corvus18" />
+    <random_header image="Corvus19" />
+    <random_header image="Corvus20" />
+    <random_header image="Corvus21" />
+    <random_header image="Corvus22" />
+    <random_header image="Corvus23" />
+    <random_header image="Corvus24" />
+    <random_header image="Corvus25" />
+    <random_header image="Corvus26" />
+    <random_header image="Corvus27" />
+    <random_header image="Corvus28" />
+    <random_header image="Corvus29" />
+    <random_header image="Corvus30" />
+    <random_header image="Corvus31" />
+    <random_header image="Corvus32" />
+    <random_header image="Corvus33" />
+    <random_header image="Corvus34" />
+    <random_header image="Corvus35" />
+    <random_header image="Corvus36" />
+    <random_header image="Corvus37" />
+    <random_header image="Corvus38" />
+    <random_header image="Corvus39" />
+    <random_header image="Corvus40" />
+    <random_header image="Corvus41" />
+    <random_header image="Corvus42" />
+    <random_header image="Corvus43" />
+    <random_header image="Corvus44" />
+    <random_header image="Corvus45" />
+    <random_header image="Corvus46" />
+    <random_header image="Corvus47" />
+    <random_header image="Corvus48" />
+    <random_header image="Corvus49" />
+    <random_header image="Corvus50" />
+    <random_header image="Corvus51" />
+    <random_header image="Corvus52" />
+    <random_header image="Corvus53" />
+    <random_header image="Corvus54" />
+    <random_header image="Corvus55" />
+    <random_header image="Corvus56" />
+    <random_header image="Corvus57" />
+</daylight_headers>
